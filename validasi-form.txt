@@ -1,0 +1,18 @@
+TUTORIAL
+https://www.malasngoding.com/membuat-form-validasi-pada-laravel/
+
+TEKNOLOGI
+- PHP 8.2.12
+- Laravel 8.83.29
+
+DEVELOPMENT
+1. Terminal: composer create-project --prefer-dist laravel/laravel validasi-form "8.*"
+2. VS Code: git init
+3. VS Code: git add .
+4. VS Code: git commit -m "first commit"
+5. VS Code: git branch -M main
+6. VS Code: git remote add origin https://github.com/okakzai/validasi-form.git
+7. VS Code: git pull origin main --rebase
+8. VS Code: git push -u origin main
+
+
